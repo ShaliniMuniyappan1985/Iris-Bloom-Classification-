@@ -1,2 +1,2 @@
-# Iris-Bloom-Classification-
-Iris bloom classification of three flowers
+# Iris-Flower-Classification-
+Iris bloom flower classification of three flowers
